@@ -57,7 +57,7 @@ p
 }
 
 #personagemSelecionado li {
-    padding: 15px;
+    padding: 13px;
     cursor: pointer;
     transition: background-color 0.1s ease;
     font-size: 18px;
