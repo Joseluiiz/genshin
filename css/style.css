@@ -11,7 +11,7 @@ body
 }
 p
 {
-    font-size: 14px;
+    font-size: 12px;
     color: #000000;
 }
 .videoFundo {
@@ -57,7 +57,7 @@ p
 }
 
 #personagemSelecionado li {
-    padding: 13px;
+    padding: 10px;
     cursor: pointer;
     transition: background-color 0.1s ease;
     font-size: 18px;
